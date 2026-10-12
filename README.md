@@ -7,8 +7,8 @@ A Java console application for CIT300 Graded Practical Assignment 2. It demonstr
 
 | Student Name | Student ID | Assigned Responsibility |
 |---|---|---|
-| MR.Rishni Ruzaid | 23DA2-1114 | Array and Searching |
-| MI.Amnath Nadha | 23DA2-0905 | Stack and Queue |
+| MI.Amnath Nadha | 23DA2-0905 | Array and Searching |
+| MR.Rishni Ruzaid | 23DA2-1114 | Stack and Queue |
 | TM.Hakeem | 23DA2-0759 | Linked List and Performance Comparison |
 | AK.Sanij Kalees | 23DA2-0683 | Graph, Main Menu, Integration and Testing |
 
