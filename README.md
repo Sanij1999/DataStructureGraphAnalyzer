@@ -14,16 +14,16 @@ A Java console application for CIT300 Graded Practical Assignment 2. It demonstr
 
 ## Individual Contributions
 
-Student Name:MR.Rishni Ruzaid
-Student ID:23DA2-1114
+Student Name:MI.Amnath Nadha
+Student ID:23DA2-0905
 Assigned Responsibility: Array and Searching
 Individual Contribution:
 - Implemented DynamicArray (insert, insert at index, delete, search, display, sort)
 - Implemented SearchOps (linear search and binary search with step counting)
 - Tested array and searching functionality
 
-Student Name:MI.Amnath Nadha
-Student ID:23DA2-0905
+Student Name:MR.Rishni Ruzaid
+Student ID:23DA2-1114
 Assigned Responsibility: Stack and Queue
 Individual Contribution:
 - Implemented StackDS (push, pop, peek, display, overflow and underflow handling)
